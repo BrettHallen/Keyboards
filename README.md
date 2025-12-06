@@ -14,6 +14,10 @@ Keyboards listed as "troubleshooting" are designed to be simple or small keyboar
 ## Commodore VIC-20
 - [Troubleshooting keyboard](https://github.com/BrettHallen/Commodore_VIC20/tree/main/Keyboard_Tactile_6mm)
 
+## Elektronika MK-52
+Электроника МК-52
+- [Replacement keypad PCB](https://github.com/BrettHallen/Elektronika-MK52-Calculator/tree/main/Elektronika_MK52_Keypad)
+
 ## Generic
 - [Hex keyboard for microcontrollers](https://github.com/BrettHallen/Hex-Keypad)
 - [Prototyping keyboard](https://github.com/BrettHallen/Keyboard-Prototyping)
@@ -28,6 +32,7 @@ Keyboards listed as "troubleshooting" are designed to be simple or small keyboar
 - [Reproduction HSS-0129](https://github.com/BrettHallen/SEGA/tree/main/Saturn/Keyboard)
 
 ## UMPK-R 
+УМПК-Р
 - [Mechanical keyboard](https://github.com/BrettHallen/UMPK-R_Computer/tree/main/Replacement_Keyboard/UMPK-R_Keyboard)
 
 ## Sinclair (ZX80/ZX81/ZX Spectrum & Clones)
