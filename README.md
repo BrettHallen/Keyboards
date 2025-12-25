@@ -42,4 +42,6 @@ Keyboards listed as "troubleshooting" are designed to be simple or small keyboar
 - [ZX80 "gaming" keyboard](https://github.com/BrettHallen/Sinclair/tree/main/ZX80_Gaming_Keyboard)
 - [ZX Spectrum Next keyboard (for bare board)](https://github.com/BrettHallen/Sinclair/tree/main/ZX_Spectrum_Next_Keyboard)
 
+## Nintendo Family Computer (Famicom)
+- [Keyboard HVC-007](https://github.com/BrettHallen/Nintendo-Famicom/tree/main/Keyboard_HVC-007)
 
